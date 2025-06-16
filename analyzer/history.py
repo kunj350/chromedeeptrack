@@ -1,0 +1,1 @@
+# Extract Chrome history from SQLite DB

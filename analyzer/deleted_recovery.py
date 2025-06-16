@@ -1,0 +1,1 @@
+# Recover deleted history entries from SQLite journals
